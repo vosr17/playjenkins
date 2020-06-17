@@ -1,9 +1,11 @@
 Part1
 About proudest Achievement
+
 Part2
 High available and load-balanced cloud environment Kubernetes cluster using Kops
 One of the first and biggest differences between EKS and kops is in how control and access are handled. With EKS, things such as managing the master node and configuring the cloud environment are handled by Amazon, leaving you with little to no control over them.
 Kops, on the other hand, lets you configure your cloud environments the way you like them, including configuring them to meet specific needs. In the long run, the level of control provided by kops will enable better control over the efficiency of the cloud environment.
+
 step:1
 setting up the kops for creating three node cluster
 For that creating and configuring IAM user with AdministratorAccess, creating the access key and the secret access key.
