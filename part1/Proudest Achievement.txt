@@ -1,0 +1,9 @@
+At the early stages of my career, i was learning a lot of things and cloud technology was completely new to me. 
+I had an interest and started learning and i did internship related to CI/CD 
+I felt like i cannot do it at the beginning but as i was curious I focused and worked on it. 
+I analyzed my daily work weekly and finally got the results. Later i felt proud of myself.
+In recent time i done projects on aws like recoverability in aws and also udacity capstone project i.e. creating a CI/CD pipeline for a basic website that deploys to a cluster in AWS EKS which is Blue/Green Deployment which helps me to learn new things.
+at last i experienced many challanges like how to meet deadlines,teamwork,how to handle the pressure situations and how to troubleshoot the issues etc.
+
+About an article
+I am working on my thesis project now so i am reading a lot of articles like understanding kubernetes architecture this book helps to learn everything about kubernetes and some articles on docker and cloud architectures.
