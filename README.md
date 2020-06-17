@@ -1,7 +1,9 @@
 Part1
+
 About proudest Achievement
 
 Part2
+
 High available and load-balanced cloud environment Kubernetes cluster using Kops
 One of the first and biggest differences between EKS and kops is in how control and access are handled. With EKS, things such as managing the master node and configuring the cloud environment are handled by Amazon, leaving you with little to no control over them.
 Kops, on the other hand, lets you configure your cloud environments the way you like them, including configuring them to meet specific needs. In the long run, the level of control provided by kops will enable better control over the efficiency of the cloud environment.
@@ -25,4 +27,5 @@ Kops, on the other hand, lets you configure your cloud environments the way you 
         Deploying mynginx.yaml to Kubernetes by adding cd plugin in Jenkins
 
 part3
+
 This part focuses on monitoring logs. It scans the log file and returns a report with errors in sessions along with the last three messages before the error, assuming the session ends when an error occurs.
