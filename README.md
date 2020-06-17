@@ -11,6 +11,8 @@ create and configure IAM user with AdministratorAccess, creating the access key 
 s3 bucket is created to store cluster state
 With the kops create cluster command i created cluster
 with --yes, kops prints the list of the whole actions is going to do in my AWS account
+
+
 step:2
 Using infrastucture as a code tool called Jenkins to implement Continuous Integration and Continuous Deployment
 creating the environment with docker registry and defining a variable docker image .
